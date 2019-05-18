@@ -1,0 +1,1 @@
+switch("passL", r"/usr/lib/libhidapi-hidraw.so")
